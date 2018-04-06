@@ -8,4 +8,4 @@ Contributing to a SVT-project is easy and follows the regular Github flow. Fork 
 
 ### Projects
 
-- [CasparCG](https://www.casparcg.com/) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. GPLv3.
+[CasparCG](https://www.casparcg.com/) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. GPLv3.
