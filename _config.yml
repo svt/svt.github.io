@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: SVT Open Source
+logo: /assets/img/svtlogo-white.png
 show_downloads: false
 github.is_project_page: false
