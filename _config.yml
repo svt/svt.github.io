@@ -1,4 +1,5 @@
 theme: jekyll-theme-svt
+remote_theme: SVT/jekyll-theme-svt
 title: SVT Open Source
 logo: /assets/img/svtlogo-white.png
 show_downloads: false
