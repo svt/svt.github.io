@@ -13,7 +13,12 @@ Contributing to a SVT-project is easy and follows the regular Github flow. Fork 
 
 ### Projects
 
-<img src="/assets/img/casparlogo.png" alt="alt text" width="200" />
+<img src="/assets/img/casparlogo.png" alt="casparlogo" width="200" />
 
-[CasparCG](https://www.casparcg.com/) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. GPLv3.
+[CasparCG](https://www.casparcg.com/) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.  
+**License:** <img src="/assets/img/license-icon-gpl-3.svg" alt="gpllogo" width="30px"  style="vertical-align: middle" />
+
+[Daemon Control (daemonctl)](https://github.com/SVT/daemonctl) - A python framework and tools to manage small applications.  
+**License:** <img src="/assets/img/license-icon-gpl-3.svg" alt="gpllogo" width="30px"  style="vertical-align: middle" />
+
  
