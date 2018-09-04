@@ -13,11 +13,10 @@ Contributing to a SVT-project is easy and follows the regular Github flow. Fork 
 
 ### Projects
 
-<img src="/assets/img/casparlogo.png" alt="casparlogo" width="200" />
-
-
 [Atem Gateway](https://github.com/SVT/atemgateway) - A micro service for controlling atem video switchers.  
 **License:** <img src="/assets/img/license-icon-gpl-3.svg" alt="gpllogo" width="30px"  style="vertical-align: middle" />
+
+<img src="/assets/img/casparlogo.png" alt="casparlogo" width="200" />
 
 [CasparCG](https://www.casparcg.com/) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.  
 **License:** <img src="/assets/img/license-icon-gpl-3.svg" alt="gpllogo" width="30px"  style="vertical-align: middle" />
