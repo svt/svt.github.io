@@ -2,16 +2,13 @@
 layout: default
 ---
 
-
-## SVT OPEN SOURCE
-
 Sveriges Television, The Swedish national public TV broadcaster, builds it services with mainly open source products. We also contribute to the Open Source community, by bug fixing or by releasing projects that we think could benefit others.
 
-### Contributing to SVT
+## Contributing to SVT
 
-Contributing to a SVT-project is easy and follows the regular Github flow. Fork the repository and follow the code guidelines and best practices for that project. Make your changes and send a pull request on Github! Below are some best practices when working with projects on Github. These are adapted from the official Github documentation. 
+Contributing to a SVT-project is easy and follows the regular Github flow. Fork the repository and follow the code guidelines and best practices for that project. Make your changes and send a pull request on Github!. 
 
-### Projects
+## Projects
 
 [Atem Gateway](https://github.com/SVT/atemgateway) - A micro service for controlling atem video switchers.  
 **License:** <img src="/assets/img/license-icon-gpl-3.svg" alt="gpllogo" width="30px"  style="vertical-align: middle" />

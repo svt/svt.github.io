@@ -1,7 +1,9 @@
 menuItems:
-- title: Start
+- title: What
   url: index
-- title: Why & How
-  url: whyhow
+- title: Why
+  url: why
+- title: How
+  url: how
 - title: About SVT
   url: https://www.svt.se/aboutus

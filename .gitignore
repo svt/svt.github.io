@@ -1,3 +1,6 @@
 Gemfile.lock
 
+*.un
+*.un~
+
 _site/

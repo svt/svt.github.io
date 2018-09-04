@@ -1,24 +1,9 @@
-# Purpose (Why)
 
-We are very good consumers of Open Source software at SVT. We use a large number of frameworks and products - however we can be better at contributing back and optimize our own usage.
+Our internal guidlines are ever changing, but basically it looks like this.
 
-Therefore the technical board took the decision that:
-
-*We (SVT) should strive to work with open source*  
-*There will be a virtual team, actively working with the first decision*
-
-We believe that we can benefit from a Open Source strategy in many ways:
-
-*Better quality of our code (by patching and contributing back to external projects we use)*  
-*Better knowledge of the software we base our products on and that SVT's fundamental mission is dependent on*  
-*PR (both general and for recruiting), respect and more recognition for SVTi as a modern and open tech company that is giving back to society in alignment with its public service mission*  
-*Developer satisfaction and even more engagement*  
-    ...
-
-# Focus areas (What?)
+# Focus areas
 
 We can identify four areas were SVT could do a lot better regarding open source.
-For SVT's part specifically, we are focusing on 1), 2) and 3):
 
 1. Contribute
 2. Publish
@@ -27,9 +12,7 @@ For SVT's part specifically, we are focusing on 1), 2) and 3):
 
 # Virtual team
 
-Current team leads are Björn Molin and Josef Andersson.
-
-The virtual team intend to have regular meetings once every other month, or when needed.
+A virtual team intend to have regular meetings once every other month, or when needed.
 
 The current purpose of the group is to:
 
@@ -60,7 +43,7 @@ Use an [OSI (Open Source Initiative) approved license](https://opensource.org/li
 
 An [GPL or MIT license](https://choosealicense.com/) should be good for most cases.
 
-[Creative Commons](https://creativecommons.org/) should also be fine for non code.
+[Creative Commons](https://creativecommons.org/) is good for non code like text and graphics.
 
 ## Maintenance
 
