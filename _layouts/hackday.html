@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US " }}">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:site_name" content="SVT Open source"/>
+  <meta property="og:title" content="SVT Open source | HACKDAG"/>
+  <meta property="og:url" content="https://www.svt.se/opensource/hackdag-20181207"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:image" content="https://www.svt.se/opensource/assets/img/Two_women_operating_ENIAC_fullres.jpg"/>
+  <meta property="og:description" content="Fredagen den 7:e december anordnar teamen för Open Source och Frontend en praktisk dag med tema “Att bidra till öppen källkod”"/>
+  <meta name="Description" content="Sveriges Television, The Swedish national public TV broadcaster, builds it services with mainly open source products. We also contribute to the Open Source community, by bug fixing or by releasing projects that we think could benefit others"/>
+  <meta name="Author" content="SVT Open source"/>
+  <meta name="Robots" content="index, follow, noarchive"/>
+  <meta name="Googlebot" content="index, follow, noarchive"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <meta name="theme-color" content="#410f5a"/>
+
+  <title>SVT Open source hack</title>
+
+  <link rel="stylesheet" href="{{"./assets/css/style.css?v=" | append: site.github.build_revision }}">
+  <link rel="stylesheet" href="{{"./assets/css/hackday.css?v=" | append: site.github.build_revision }}">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+  
+  <div class="wrapper">
+    <header class="svt-header">
+
+      <nav class="navigation" role="navigation">
+        {% if site.data.menu %}
+        <div class="menuToggle">
+          <input class="menuToggleCheckbox" type="checkbox" />
+          <div class="menu-icon">
+            <span class="menu-icon-line"></span>
+            <span class="menu-icon-line"></span>
+            <span class="menu-icon-line"></span>
+            <span class="menu-icon-line"></span>
+          </div>
+          <ul class="menu">
+            {% for item in site.data.menu.menuItems %}
+              <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        <div class="site-logo">
+          <a href="https://www.svt.se">
+            <img src="./assets/img/svtlogo-white.png" alt="SVT Logotype" />
+          </a>
+        </div>
+    </nav>
+    <div class="header-main">
+      <h1>
+        <a href="{{"https://www.svt.se/opensource" | absolute_url }}">√ {{ site.title | default: site.github.repository_name }} hack</a>
+      </h1>
+    </div>
+    </header>
+    <section class="svt-section-hackday">
+      <div class="hackday-image-container">
+        <div class="hackday-title">“Att bidra till öppen källkod”</div>
+        <div class="hackday-content">Fredagen den 7:e december anordnar teamen för Open Source och Frontend en praktisk dag med tema “Att bidra till öppen källkod”.</div>
+        <div class="hackday-bottom">U. S. Army Photo</div>
+      </div> 
+    </section>
+    <section class="svt-section">
+      {{ content }}
+    </section>
+    <footer class="svt-footer">
+      <a href="https://www.svt.se">
+        {% if site.logo %}
+        <img class="footer-logo" src="{{site.logo}}" alt="Logo" /> 
+        {% endif %}
+      </a>
+      <div class="footer-copyright">© Sveriges Television AB</div>
+    </footer>
+  </div>
+</body>
+
+</html>
