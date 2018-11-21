@@ -1,0 +1,60 @@
+--- 
+---
+
+body {
+    padding: 0px;
+    color: #ffffff;
+    background-color: #000000;
+} 
+
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.svt-header {
+    background-color:#000000;
+    background-image: none;
+    min-height: 40px;
+}
+
+.hackday-image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("../img/Two_women_operating_ENIAC_fullres.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    text-align: center;
+    color: white;
+    padding: 0px;
+    margin: 0;
+}
+
+.hackday-title {
+    padding: 0px;
+    margin: 0;
+    width:100%;
+    background: #000000;
+    opacity: 0.7;
+}
+
+.hackday-content {
+    background: #000000;
+    opacity: 0.85;
+    width: 320px;
+    margin-top: 200px;
+    align-self: center;
+    @media screen and (min-width: 600px) {
+        width: 600px;
+        margin-top: 400px;
+    }
+
+}
+
+.hackday-bottom {
+    font-size: 10px;
+    align-self: flex-end;
+    background: #000000;
+    opacity: 0.5;
+}
