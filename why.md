@@ -11,3 +11,4 @@ We believe that we can benefit from an Open Source strategy in many ways:
 *Better knowledge of the software we base our products on and that SVT's fundamental mission is dependent on*  
 *PR (both general and for recruiting), respect and more recognition for SVTi as a modern and open tech company that is giving back to s    ociety in alignment with its public service mission*  
 *Developer satisfaction and even more engagement* 
+*Better collaboration with organisations and individuals
