@@ -1,6 +1,8 @@
 menuItems:
-- title: What
+- title: Hack
   url: index
+- title: What
+  url: what
 - title: Why
   url: why
 - title: How
