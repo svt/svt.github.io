@@ -4,4 +4,6 @@ Sveriges Television, The Swedish national public TV broadcaster, builds it servi
 
 This is the project for SVT's Open Source site, built with GitHub Pages, using the [Minimal Theme](https://github.com/pages-themes/minimal).
 
- 
+## Primary Maintainer
+
+Björn Molin https://github.com/orgs/SVT/people/bjornSVT
