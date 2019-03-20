@@ -5,5 +5,7 @@ menuItems:
   url: why
 - title: How
   url: how
+- title: Hackday!
+  url: hackday
 - title: About SVT
   url: https://www.svt.se/aboutus
