@@ -58,3 +58,13 @@ h1 {
     background: #000000;
     opacity: 0.5;
 }
+
+a {
+    color: rgb(240, 240, 240);
+    text-decoration-color: rgb(240, 240, 240);
+    text-decoration: none;
+    &:hover {
+        font-weight: 400;
+        text-decoration: underline;
+    }
+}
