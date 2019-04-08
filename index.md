@@ -26,6 +26,10 @@ License: [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 A JUnit5 extension to setup embedded Redis for tests   
 License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
 
+### [ORM Origin Routing Machine](https://github.com/SVT/orm)
+ORM stands for Origin Routing Machine, it's a reverse proxy config generator that manages domains. It uses yaml config files (called ORM rules) to perform specific actions depending on each HTTP request's domain, path and query string.  
+License: [MIT](https://opensource.org/licenses/MIT)
+
 ### [Random Port Initializer](https://github.com/SVT/random-port-initializer)
 A small Spring test util for resolving property placeholders to free random ports.  
 License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
