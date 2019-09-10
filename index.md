@@ -22,6 +22,15 @@ License [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 `daemonctl` is a Python framework and tools to manage small applications.  
 License: [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 
+### [Election Compass Match](https://github.com/SVT/election-compass-match)
+`election-compass-match` is the algorithm used by [SVT's Valkompass](https://valkompassen.svt.se) to get a percentage of how well two entities' political opinions are aligned.  
+License: [MIT](https://opensource.org/licenses/MIT)
+
+### [GraphQL Defragmentizer](https://github.com/SVT/graphql-defragmentizer)
+`graphql-defragmentizer` Library for building GraphQL queries from fragments in JavaScript.
+It combines the main query, the fragments and their sub-fragments into one valid query. Useful for React apps, if you want each component to specify its own data requirements, but still want to run a single GraphQL query.  
+License: [MIT](https://opensource.org/licenses/MIT)
+
 ### [JUnit5 Redis Extension](https://github.com/SVT/junit5-redis-extension)
 A JUnit5 extension to setup embedded Redis for tests   
 License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
@@ -30,11 +39,10 @@ License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
 ORM stands for Origin Routing Machine, it's a reverse proxy config generator that manages domains. It uses yaml config files (called ORM rules) to perform specific actions depending on each HTTP request's domain, path and query string.  
 License: [MIT](https://opensource.org/licenses/MIT)
 
-### [Vivict](https://github.com/SVT/vivict)
-An easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.  
-License: [MIT](https://opensource.org/licenses/MIT)
-
 ### [Random Port Initializer](https://github.com/SVT/random-port-initializer)
 A small Spring test util for resolving property placeholders to free random ports.  
 License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
  
+### [Vivict](https://github.com/SVT/vivict)
+An easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.  
+License: [MIT](https://opensource.org/licenses/MIT)
