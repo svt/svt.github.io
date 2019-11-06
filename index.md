@@ -26,6 +26,10 @@ License: [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 `election-compass-match` is the algorithm used by [SVT's Valkompass](https://valkompassen.svt.se) to get a percentage of how well two entities' political opinions are aligned.  
 License: [MIT](https://opensource.org/licenses/MIT)
 
+### [Flum](https://github.com/SVT/flum)
+A wrapper around the okhttp mockwebserver that adds a more fluent api for scripting the mock server.  
+License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
+
 ### [GraphQL Defragmentizer](https://github.com/SVT/graphql-defragmentizer)
 `graphql-defragmentizer` Library for building GraphQL queries from fragments in JavaScript.
 It combines the main query, the fragments and their sub-fragments into one valid query. Useful for React apps, if you want each component to specify its own data requirements, but still want to run a single GraphQL query.  
