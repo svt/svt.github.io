@@ -1,6 +1,6 @@
 menuItems:
 - title: What
-  url: what
+  url: index
 - title: Why
   url: why
 - title: How
