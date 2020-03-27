@@ -26,6 +26,14 @@ License: [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 `election-compass-match` is the algorithm used by [SVT's Valkompass](https://valkompassen.svt.se) to get a percentage of how well two entities' political opinions are aligned.  
 License: [MIT](https://opensource.org/licenses/MIT)
 
+### [FFmpeg Filter Proxy](https://github.com/SVT/ffmpeg-filter-proxy)
+A FFMpeg video filter proxy.  
+License: [LGPL-2.1](https://opensource.org/licenses/lgpl-2.1)
+
+### [FFmpeg Filter Proxy Filters](https://github.com/SVT/ffmpeg-filter-proxy-filters)
+Filter implementations for ffmpeg-filter-proxy.  
+License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
+
 ### [Flum](https://github.com/SVT/flum)
 A wrapper around the okhttp mockwebserver that adds a more fluent api for scripting the mock server.  
 License: [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
