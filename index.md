@@ -22,6 +22,10 @@ License [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 `daemonctl` is a Python framework and tools to manage small applications.  
 License: [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 
+### [SVT Encore](https://github.com/svt/encore)
+`SVT Encore` is scalable video transcoding tool, built on FFmpeg.  
+License: [EUPL](https://opensource.org/licenses/EUPL-1.2)
+
 ### [Election Compass Match](https://github.com/SVT/election-compass-match)
 `election-compass-match` is the algorithm used by [SVT's Valkompass](https://valkompassen.svt.se) to get a percentage of how well two entities' political opinions are aligned.  
 License: [MIT](https://opensource.org/licenses/MIT)
