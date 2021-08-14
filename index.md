@@ -6,7 +6,7 @@ Sveriges Television, The Swedish national public TV broadcaster, builds its serv
 
 ## Contributing to SVT
 
-Contributing to an SVT-project is easy and follows the regular Github flow. Fork the repository and follow the code guidelines and best practices for that project. Make your changes and send a pull request on Github! 
+Contributing to an SVT-project is easy and follows the regular GitHub flow. Fork the repository and follow the code guidelines and best practices for that project. Make your changes and send a pull request on Github! 
 
 ## Projects
 
