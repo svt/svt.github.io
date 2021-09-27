@@ -9,6 +9,6 @@ We can benefit from an Open Source strategy in many ways, for example by:
 
 *Better quality of our code (by patching and contributing back to external projects we use)*  
 *Better knowledge of the software we base our products on and that SVT's fundamental mission is dependent on*  
-*Brandin and recognition as an open organisationthat is giving back to society in alignment with its public service mission*  
+*Branding and recognition as an open organisation that is giving back to society in alignment with its public service mission*  
 *Developer satisfaction and even more engagement* 
 *Better collaboration with organisations and individuals
