@@ -1,14 +1,14 @@
-We are very good consumers of Open Source software at SVT. We use a large number of frameworks and products - however we could and should be better at contributing back and optimize our own usage.
+We are very good consumers of Open Source software at SVT and use a large number of Open Source frameworks and products.
 
-Therefore the technical board took the decision that:
+To improve our participation we decided that:
 
 *We (SVT) should strive to work with open source*  
 *There will be a virtual team, actively working with the first decision*
 
-We believe that we can benefit from an Open Source strategy in many ways:
+We can benefit from an Open Source strategy in many ways, for example by:
 
 *Better quality of our code (by patching and contributing back to external projects we use)*  
 *Better knowledge of the software we base our products on and that SVT's fundamental mission is dependent on*  
-*PR (both general and for recruiting), respect and more recognition for SVTi as a modern and open tech company that is giving back to s    ociety in alignment with its public service mission*  
+*Branding and recognition as an open organisation that is giving back to society in alignment with its public service mission*  
 *Developer satisfaction and even more engagement* 
 *Better collaboration with organisations and individuals
