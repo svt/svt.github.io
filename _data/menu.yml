@@ -1,7 +1,5 @@
 menuItems:
-- title: What
+- title: Open Source
   url: index
-- title: Why
-  url: why
-- title: About SVT
-  url: https://www.svt.se/aboutus
+- title: Open Content
+  url: opencontent

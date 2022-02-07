@@ -1,13 +1,14 @@
 ---
 layout: default
+head: Open Content
 ---
 
-Open Content, for education, usage and exploration, enjoy! 
+Open Content - education, usage and exploration! 
 
 ## Open Content 
 
 
-### SVT Open Content Video Test Suite 2021 – Nature’s Complexity 
+### SVT Open Content Video Test Suite 2022 – Nature’s Complexity 
 ### [<img src="./assets/img/videotestsuite2021.png" alt="videotestsuite2021image" width="600" />](https://www.svt.se/opensource/opencontent) 
 
 A data set of video material intendented for R&D, with a liberal usage license.
