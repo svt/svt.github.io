@@ -7,7 +7,7 @@ head: Open Content
 
 ## SVT Open Content Video Test Suite 2022 – Nature’s Complexity 
 
-[<img src="./assets/img/flame.webp" alt="flame image" width="300" />](https://www.svt.se/opensource/opencontent) [<img src="./assets/img/waterfall.webp" alt="waterfall" width="300" />](https://www.svt.se/opensource/opencontent) [<img src="./assets/img/smithy.webp" alt="smithy" width="300" />](https://www.svt.se/opensource/opencontent) 
+[<img src="./assets/img/flame.webp" alt="flame image" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/waterfall.webp" alt="waterfall" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/smithy.webp" alt="smithy" width="300" />](https://www.svt.se/opensource/content) 
 
 A data set of video material intendented for R&D.
 
@@ -30,7 +30,7 @@ All of the content was shot at 3840x2160p50 using professional equipment, and th
 
 An older data set of video material, refered to here for reference. 
 
-[<img src="./assets/img/crowd_run.webp" alt="crowd run" width="200" />](https://www.svt.se/opensource/opencontent) [<img src="./assets/img/in_to_tree.webp" alt="in to tree" width="200" />](https://www.svt.se/opensource/opencontent) [<img src="./assets/img/ducks.webp" alt="ducks" width="200" />](https://www.svt.se/opensource/opencontent) 
+[<img src="./assets/img/crowd_run.webp" alt="crowd run" width="200" />](https://www.svt.se/opensource/content) [<img src="./assets/img/in_to_tree.webp" alt="in to tree" width="200" />](https://www.svt.se/opensource/content) [<img src="./assets/img/ducks.webp" alt="ducks" width="200" />](https://www.svt.se/opensource/content) 
 
 
 [Documentation (PDF)](https://media.xiph.org/video/derf/vqeg.its.bldrdoc.gov/HDTV/SVT_MultiFormat/SVT_MultiFormat_v10.pdf)

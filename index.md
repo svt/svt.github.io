@@ -18,4 +18,4 @@ Contributing to an SVT-project is easy and follows the regular GitHub flow. Fork
  \\
  \\
  \\
-[![GitHub Logo](./assets/img/GitHub-Mark-64px.png){:style="display:block; margin-left:auto; margin-right:auto"}](https://github.com/svt)
+[<img src="./assets/img/GitHub-Mark-64px.png" alt="logo github" style="display:block; margin-left:auto; margin-right:auto" />](https://github.com/svt) 
