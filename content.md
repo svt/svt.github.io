@@ -5,7 +5,7 @@ head: Open Content
 
 ---
 
-## SVT Open Content Video Test Suite 2022 – Nature’s Complexity 
+## SVT Open Content Video Test Suite 2022 – Natural Complexity 
 
 [<img src="./assets/img/flame.webp" alt="flame image" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/waterfall.webp" alt="waterfall" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/smithy.webp" alt="smithy" width="300" />](https://www.svt.se/opensource/content) 
 
@@ -22,7 +22,7 @@ All of the content was shot at 3840x2160p50 using professional equipment, and th
 
 ### Copyright
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />SVT Open Content Video Test Suite 2022 - Nature's Complexity is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />SVT Open Content Video Test Suite 2022 - Natural Complexity is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ---
 
