@@ -9,16 +9,20 @@ head: Open Content
 
 [<img src="./assets/img/flame.webp" alt="flame image" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/waterfall.webp" alt="waterfall" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/smithy.webp" alt="smithy" width="300" />](https://www.svt.se/opensource/content) 
 
+
 A data set of video material intendented for R&D.
 
-TODO:
-* add a featurelist of the videos, short description.
-* access information (ftp?)  
-
 All of the sequences from this suite were produced and post processed with the intention to help SVT’s internal OTT Video R&D team evaluate and assess video quality produced by encoders and codecs.
-All of the material of this suite may be distributed, modified and used freely (complete or in parts) as per the license described further down below.
+All of the material in this suite may be distributed, modified and used freely (complete or in parts) as per the Creative Commons license described further down below.
 
-All of the content was shot at 3840x2160p50 using professional equipment, and the outmost care has been taken during the post-production process to ensure that visual quality is retained. The data itself is provided in various different resolutions and formats, both graded and ungraded.
+All of the content was captured in 3840x2160p50 using professional equipment, and the outmost care has been taken during the post-production process to ensure that visual quality is retained. The data itself is provided in various different resolutions and formats, however no effort has been made to grade the content or otherwise make it more aesthetically pleasing.
+
+[Documentation (PDF)](https://www.svt.se/opensource/content)
+
+
+The content is currently available at:
+
+* ftp://coming.soon.
 
 ### Copyright
 
