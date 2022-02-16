@@ -17,7 +17,7 @@ All of the material in this suite may be distributed, modified and used freely (
 
 All of the content was captured in 3840x2160p50 using professional equipment, and the outmost care has been taken during the post-production process to ensure that visual quality is retained. The data itself is provided in various different resolutions and formats, however no effort has been made to grade the content or otherwise make it more aesthetically pleasing.
 
-[Documentation (PDF)](https://www.svt.se/opensource/content)
+[Documentation (PDF)](./assets/doc/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-0-reduced.pdf)
 
 
 The content is currently available at:
