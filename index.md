@@ -3,7 +3,7 @@ layout: default
 head: Open Source
 ---
 
-Sveriges Television, The Swedish national public TV broadcaster, builds its services with mainly open source products. We also contribute to the Open Source community, by bug fixing or by releasing projects that we think could benefit others.
+Sveriges Television, The Swedish national public TV broadcaster, are dependent on many Open Source products. We also contribute to the Open Source community, by bug fixing or by releasing projects that we think could benefit others.
 
 ## Contributing to SVT's Open Source Projects
 
