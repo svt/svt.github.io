@@ -10,7 +10,7 @@ head: Open Content
 [<img src="./assets/img/flame.webp" alt="flame image" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/waterfall.webp" alt="waterfall" width="300" />](https://www.svt.se/opensource/content) [<img src="./assets/img/smithy.webp" alt="smithy" width="300" />](https://www.svt.se/opensource/content) 
 
 
-A data set of video material intendented for R&D.
+A data set of video material intended for R&D.
 
 All of the sequences from this suite were produced and post processed with the intention to help SVT’s internal OTT Video R&D team evaluate and assess video quality produced by encoders and codecs.
 All of the material in this suite may be distributed, modified and used freely (complete or in parts) as per the Creative Commons license described further down below.
