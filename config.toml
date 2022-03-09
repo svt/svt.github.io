@@ -1,9 +1,10 @@
-baseURL = 'https://svt.github.io/'
+baseURL = 'https://www.svt.se'
 languageCode = "sv"
 defaultContentLanguageInSubdir = false
 defaultContentLanguage = "sv"
 theme = "open"
 sectionPagesMenu = "main"
+relativeURLs = true
 
 [languages]
   [languages.sv]
