@@ -2,7 +2,7 @@
 title: "Open Content"
 description: "A data set of video material intended for R&D"
 images:
-  - /img/waterfall.webp
+  - /open/img/waterfall.webp
   # - https://via.placeholder.com/1200x630
 color: "#410f5a"
 menu:
@@ -17,9 +17,9 @@ menu:
 A data set of video material intended for R&D.
 
 {{< gallery >}}
-{{< image src="/img/flame.webp" srcset="/img/flame.webp 2x" alt="" width="400">}}
-{{< image src="/img/waterfall.webp" alt="" width="400">}}
-{{< image src="/img/smithy.webp" alt="" width="400">}}
+{{< image src="/open/img/flame.webp" srcset="/img/flame.webp 2x" alt="" width="400">}}
+{{< image src="/open/img/waterfall.webp" alt="" width="400">}}
+{{< image src="/open/img/smithy.webp" alt="" width="400">}}
 {{< /gallery >}}
 
 - [Documentation (1.1) (PDF)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-1-reduced.pdf)
@@ -32,7 +32,7 @@ All of the content was captured in 3840x2160p50 using professional equipment, an
 
 ### Copyright
 
-{{< figure src="/img/cc-by-88x31-pixelfix.svg" alt="Creative Commons License" link="http://creativecommons.org/licenses/by/4.0/" rel="license">}}
+{{< figure src="/open/img/cc-by-88x31-pixelfix.svg" alt="Creative Commons License" link="http://creativecommons.org/licenses/by/4.0/" rel="license">}}
 
 SVT Open Content Video Test Suite 2022 - Natural Complexity is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -43,9 +43,9 @@ SVT Open Content Video Test Suite 2022 - Natural Complexity is licensed under a 
 An older data set of video material, refered to here for reference.
 
 {{< gallery >}}
-{{< image src="/img/crowd_run.webp" alt="" width="400">}}
-{{< image src="/img/in_to_tree.webp" alt="" width="400">}}
-{{< image src="/img/ducks.webp" alt="" width="400">}}
+{{< image src="/open/img/crowd_run.webp" alt="" width="400">}}
+{{< image src="/open/img/in_to_tree.webp" alt="" width="400">}}
+{{< image src="/open/img/ducks.webp" alt="" width="400">}}
 {{< /gallery >}}
 
 - [Documentation (PDF)](https://media.xiph.org/video/derf/vqeg.its.bldrdoc.gov/HDTV/SVT_MultiFormat/SVT_MultiFormat_v10.pdf)

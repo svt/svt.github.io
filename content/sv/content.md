@@ -17,9 +17,9 @@ menu:
 En svit av videomaterial avsett för forskning och utveckling.
 
 {{< gallery >}}
-  {{< image src="/img/flame.webp" srcset="/img/flame.webp 2x" alt="" width="400">}}
-  {{< image src="/img/waterfall.webp" alt="" width="400">}}
-  {{< image src="/img/smithy.webp" alt="" width="400">}}
+{{< image src="/open/img/flame.webp" srcset="/open/img/flame.webp 2x" alt="" width="400">}}
+{{< image src="/open/img/waterfall.webp" alt="" width="400">}}
+{{< image src="/open/img/smithy.webp" alt="" width="400">}}
 {{< /gallery >}}
 
 - [Dokumentation (1.1) (PDF - Engelska)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-1-reduced.pdf)
@@ -33,7 +33,7 @@ Materialet kan delas, modifieras och användas fritt bara man följer villkoren 
 
 ### Copyright
 
-{{< figure src="/img/cc-by-88x31-pixelfix.svg" alt="Creative Commons License" link="http://creativecommons.org/licenses/by/4.0/" rel="license">}}
+{{< figure src="/open/img/cc-by-88x31-pixelfix.svg" alt="Creative Commons License" link="http://creativecommons.org/licenses/by/4.0/" rel="license">}}
 
 SVT Open Content Video Test Suite 2022 - Natural Complexity är licensierat under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -44,9 +44,9 @@ SVT Open Content Video Test Suite 2022 - Natural Complexity är licensierat unde
 En äldre svit av videomaterial.
 
 {{< gallery >}}
-  {{< image src="/img/crowd_run.webp" alt="" width="400">}}
-  {{< image src="/img/in_to_tree.webp" alt="" width="400">}}
-  {{< image src="/img/ducks.webp" alt="" width="400">}}
+{{< image src="/open/img/crowd_run.webp" alt="" width="400">}}
+{{< image src="/open/img/in_to_tree.webp" alt="" width="400">}}
+{{< image src="/open/img/ducks.webp" alt="" width="400">}}
 {{< /gallery >}}
 
 - [Dokumentation (Engelska) (PDF)](https://media.xiph.org/video/derf/vqeg.its.bldrdoc.gov/HDTV/SVT_MultiFormat/SVT_MultiFormat_v10.pdf)

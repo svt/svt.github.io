@@ -4,7 +4,7 @@ description: "SVT's öppen källkodsida"
 images:
   - https://via.placeholder.com/1200x630
 color: "#197869"
-heroImage: "/img/opensource-frame.svg"
+heroImage: "/open/img/opensource-frame.svg"
 heroSocial: "enabled"
 heroIcon: "github"
 heroIconLink: "https://github.com/svt"
@@ -20,11 +20,11 @@ Sveriges Television AB skapar en stor del av sina lösningar med hjälp av öppe
 Vi strävar därför efter att när vi kan bidra till öppen källkod-gemenskapen.
 Det gör vi genom att bidra med felrättningar eller genom att ibland släppa projekt under öppna licenser när vi tror att de kan vara av nytta för andra.
 
-<!--{{< figure src="/img/github-64.svg" alt="GitHub" link="https://github.com/svt" class="text-center margin-top" >}}-->
+<!--{{< figure src="/open/img/github-64.svg" alt="GitHub" link="https://github.com/svt" class="text-center margin-top" >}}-->
 
 ## Att använda
 
-{{< figure src="/img/undraw_version_control_9bpv.svg" alt="" class="float-right mw50" >}}
+{{< figure src="/open/img/undraw_version_control_9bpv.svg" alt="" class="float-right mw50" >}}
 
 För att se en aktuell lista över tillgängliga projekt, undersök vår GitHub-sida. Varje projekt (bör) innehålla mer information om vad som gäller för det specifikt, användning, licens och hur man utvecklar för det.
 

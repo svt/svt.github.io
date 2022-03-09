@@ -4,7 +4,7 @@ description: "Landing page for Open Source at SVT"
 images:
   - https://via.placeholder.com/1200x630
 color: "#197869"
-heroImage: "/img/opensource-frame.svg"
+heroImage: "/open/img/opensource-frame.svg"
 heroSocial: "enabled"
 heroIcon: "github"
 heroIconLink: "https://github.com/svt"
@@ -20,11 +20,11 @@ Sveriges Television, The Swedish national public TV broadcaster, are dependent o
 
 ## Contributing to SVT's Open Source Projects
 
-{{< figure src="/img/undraw_version_control_9bpv.svg" alt="" class="float-right mw50" >}}
+{{< figure src="/open/img/undraw_version_control_9bpv.svg" alt="" class="float-right mw50" >}}
 
 Contributing to an SVT-project is easy and follows the regular GitHub flow. Fork the repository and follow the code guidelines and best practices for that project. Make your changes and send a pull request on GitHub!
 
-<!--{{< figure src="/img/github-64.svg" alt="GitHub" link="https://github.com/svt" class="text-center margin-top" >}}-->
+<!--{{< figure src="/open/img/github-64.svg" alt="GitHub" link="https://github.com/svt" class="text-center margin-top" >}}-->
 
 ## Using an SVT Open Source Project
 
