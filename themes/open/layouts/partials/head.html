@@ -10,7 +10,7 @@
   <link rel="icon" href="{{ relURL "favicon.ico" }}" sizes="any">
   <link rel="icon" href="{{ absURL "icon.svg" }}" type="image/svg+xml">
 
-  <link rel="canonical" href="{{ .Permalink }}" />
+  <link rel="canonical" href="{{ .RelPermalink }}" />
   {{ template "_internal/opengraph.html" . }}
   <meta property="og:site_name" content="{{ .Site.Params.organisation }}" />
 
