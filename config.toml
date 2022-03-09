@@ -1,4 +1,4 @@
-baseURL = 'https://www.svt.se/open'
+baseURL = 'https://www.svt.se/open/'
 languageCode = "sv"
 defaultContentLanguageInSubdir = false
 defaultContentLanguage = "sv"
