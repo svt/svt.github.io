@@ -4,7 +4,7 @@
   {{ end }}
   {{ if .IsTranslated -}}
     {{ range .Translations }}
-      <a href="{{ .Permalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .Language.LanguageName }}</a>
+      <a href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .Language.LanguageName }}</a>
     {{ end -}}
   {{ end -}}
   <div class="footer-organisation">
