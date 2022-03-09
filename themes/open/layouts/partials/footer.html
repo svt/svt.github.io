@@ -1,0 +1,19 @@
+<footer class="footer">
+  {{ range .Site.Menus.footer }}
+    <a href="{{ .URL }}" class="footer-links">{{ .Name }}</a>
+  {{ end }}
+  {{ if .IsTranslated -}}
+    {{ range .Translations }}
+      <a href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .Language.LanguageName }}</a>
+    {{ end -}}
+  {{ else -}}
+    {{ range .Site.Languages -}}
+      {{ if ne $.Site.Language.Lang .Lang }}
+        <a href="{{ .Lang | relURL }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .LanguageName }}</a>
+      {{ end -}}
+    {{ end -}}
+  {{ end -}}
+  <div class="footer-organisation">
+    © Sveriges Television AB
+  </div>
+</footer>

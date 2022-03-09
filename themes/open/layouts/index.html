@@ -1,0 +1,15 @@
+{{ define "main" }}
+<main class="main">
+  <div class="hero{{ if not .Params.heroImage }} hero--no-image{{ end }}"
+       style="{{ if .Params.color }} background-color: {{ .Params.color  }}{{ end }}
+              {{ if .Params.heroBack }} background-image: url('{{ .Params.heroBack  }}'){{ end }}">
+{{ if .Params.heroImage }}<img src="{{ .Params.heroImage  }}" alt="" class="hero-image">{{ end }}
+{{ if .Params.heroSocial }}
+{{ end }}
+</div>
+  <div class="content">
+    <h1 class="title">{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+</main>
+{{ end }}

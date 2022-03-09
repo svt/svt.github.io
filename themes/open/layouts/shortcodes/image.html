@@ -1,0 +1,6 @@
+<img src="{{ .Get "src" }}"
+  {{- with .Get "srcset" }} srcset="{{ . }}"{{ end -}}
+  {{- with .Get "alt" }} alt="{{ . }}"{{ end -}}
+  {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+  {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+/>

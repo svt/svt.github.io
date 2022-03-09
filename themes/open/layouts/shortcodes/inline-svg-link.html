@@ -1,0 +1,7 @@
+{{ $icon := .Get "icon" }}
+{{ $href := .Get "href" }}
+{{ $text := .Get "text" }}
+{{ $class := .Get "class" }}
+{{- partial "inline-svg-link.html" (dict "icon" $icon "href" $href "text" $text $class $class ) -}}
+
+
