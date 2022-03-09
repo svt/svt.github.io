@@ -7,7 +7,6 @@ While the added code and assets for this project is _browsable_ in this repo, fo
 a) mostly being small additions to CSS and minor text paragraphs.  
 b) or being assets not allowed or intended to release for free usage, like for example the typography, logos or images which SVT does not have the right to release further under a more liberal licensing.
 
-
 ## Credits and copyrights
 
 Thanks too:
