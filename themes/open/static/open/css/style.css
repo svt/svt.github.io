@@ -395,7 +395,7 @@ a:focus {
 .hero {
   display: flex;
   justify-content: center;
-  background-image: url("../img/slashes.svg");
+  background-image: url("https://www.svt.se/open/img/slashes.svg");
   background-size: cover;
   background-position: center;
   background-color: var(--svt-color_purple_extra-dark);
