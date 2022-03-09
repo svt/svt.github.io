@@ -1,8 +1,0 @@
-{{ $svg := resources.Get (print "svg/" .icon ".svg") }}
-{{ $href := .href }}
-{{ $text := .text }}
-{{ $class := .class }}
-{{ if $href }}<a href="{{ $href | relURL }}"{{ if .class }} class="{{ $class }}"{{ end }}>{{ $text }}<span class="inline-svg" aria-hidden="true">{{ $svg.Content | safeHTML }}</span></a>{{ else }}<span class="inline-svg">{{ $svg.Content | safeHTML }}</span>{{ end }}
-
-
-
