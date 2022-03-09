@@ -1,4 +1,4 @@
-baseURL = 'https://svt.github.io/open/'
+baseURL = 'https://www.svt.se/'
 languageCode = "sv"
 defaultContentLanguageInSubdir = false
 defaultContentLanguage = "sv"
