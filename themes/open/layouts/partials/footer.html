@@ -4,13 +4,7 @@
   {{ end }}
   {{ if .IsTranslated -}}
     {{ range .Translations }}
-      <a href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .Language.LanguageName }}</a>
-    {{ end -}}
-  {{ else -}}
-    {{ range .Site.Languages -}}
-      {{ if ne $.Site.Language.Lang .Lang }}
-        <a href="{{ .Lang | relURL }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .LanguageName }}</a>
-      {{ end -}}
+      <a href="{{ .Permalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" rel="alternate" class="footer-links">{{ .Language.LanguageName }}</a>
     {{ end -}}
   {{ end -}}
   <div class="footer-organisation">

@@ -17,9 +17,9 @@ menu:
 A data set of video material intended for R&D.
 
 {{< gallery >}}
-  {{< image src="/img/flame.webp" srcset="/img/flame.webp 2x" alt="" width="400">}}
-  {{< image src="/img/waterfall.webp" alt="" width="400">}}
-  {{< image src="/img/smithy.webp" alt="" width="400">}}
+{{< image src="/img/flame.webp" srcset="/img/flame.webp 2x" alt="" width="400">}}
+{{< image src="/img/waterfall.webp" alt="" width="400">}}
+{{< image src="/img/smithy.webp" alt="" width="400">}}
 {{< /gallery >}}
 
 - [Documentation (1.1) (PDF)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-1-reduced.pdf)
@@ -29,8 +29,6 @@ All of the sequences from this suite were produced and post processed with the i
 All of the material in this suite may be distributed, modified and used freely (complete or in parts) as per the Creative Commons license described further down below.
 
 All of the content was captured in 3840x2160p50 using professional equipment, and the outmost care has been taken during the post-production process to ensure that visual quality is retained. The data itself is provided in various different resolutions and formats, however no effort has been made to grade the content or otherwise make it more aesthetically pleasing.
-
-
 
 ### Copyright
 
@@ -45,9 +43,9 @@ SVT Open Content Video Test Suite 2022 - Natural Complexity is licensed under a 
 An older data set of video material, refered to here for reference.
 
 {{< gallery >}}
-  {{< image src="/img/crowd_run.webp" alt="" width="400">}}
-  {{< image src="/img/in_to_tree.webp" alt="" width="400">}}
-  {{< image src="/img/ducks.webp" alt="" width="400">}}
+{{< image src="/img/crowd_run.webp" alt="" width="400">}}
+{{< image src="/img/in_to_tree.webp" alt="" width="400">}}
+{{< image src="/img/ducks.webp" alt="" width="400">}}
 {{< /gallery >}}
 
 - [Documentation (PDF)](https://media.xiph.org/video/derf/vqeg.its.bldrdoc.gov/HDTV/SVT_MultiFormat/SVT_MultiFormat_v10.pdf)
