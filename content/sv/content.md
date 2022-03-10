@@ -27,7 +27,7 @@ En svit av videomaterial avsett för forskning och utveckling.
 
 Alla sekvenser i denna svit togs fram i syfte att hjälpa SVT:s interna OTT-team att utvärdera och bedöma videokvalitet från videokodare och kodeks.
 Allt innehåll skapades i 3840x2160p50 med hjälp av professionell utrustning, och med en noggrann post-produktion med hänsyn till att den visuella kvaliteten bevarades.
-Materialet tillhandhålls i flera olika upplösningar och format. Dock är inte materialet är inte graderat eller gjort för att förbättra det estetiskt.
+Materialet tillhandhålls i flera olika upplösningar och format, men är inte graderat eller gjort med estetiken i fokus.
 
 Materialet kan delas, modifieras och användas fritt bara man följer villkoren i Creative Commons-license som materialet är släppt under.
 
