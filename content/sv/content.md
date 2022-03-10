@@ -1,6 +1,6 @@
 ---
 title: "Öppet innehåll"
-description: "SVT's sida för öppet innehåll"
+description: "SVT:s sida för öppet innehåll"
 images:
   - /img/waterfall.webp
   # - https://via.placeholder.com/1200x630
@@ -25,7 +25,7 @@ En svit av videomaterial avsett för forskning och utveckling.
 - [Dokumentation (1.1) (PDF - Engelska)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-1-reduced.pdf)
 - Videoinnehållet finns för tillfället att hämta från FTP: ftp://svtopencontent.svt.se
 
-Alla sekvenser i denna svit togs fram i syfte att hjälpa SVT's interna OTT-team att utvärdera och bedöma videokvalitet från videokodare och kodeks.
+Alla sekvenser i denna svit togs fram i syfte att hjälpa SVT:s interna OTT-team att utvärdera och bedöma videokvalitet från videokodare och kodeks.
 Allt innehåll skapades i 3840x2160p50 med hjälp av professionell utrustning, och med en noggrann post-produktion med hänsyn till att den visuella kvaliteten bevarades.
 Materialet tillhandhålls i flera olika upplösningar och format. Dock är inte materialet är inte graderat eller gjort för att förbättra det estetiskt.
 

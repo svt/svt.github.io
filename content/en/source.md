@@ -28,8 +28,8 @@ Contributing to an SVT-project is easy and follows the regular GitHub flow. Fork
 
 ## Using an SVT Open Source Project
 
-Please do, to get an overview of current projects, the most up-to-date listing can be found in our GitHub page. Every project should contain more specific usage details.
+Please do, to get an overview of current projects, the most up-to-date listing can be found at SVT's GitHub page. Every project should contain more specific usage details.
 
-{{< inline-svg-link icon="github" href="https://github.com/svt" text="Visit our GitHub Page" >}}
+{{< inline-svg-link icon="github" href="https://github.com/svt" text="Visit SVT's GitHub Page" >}}
 
 ---
