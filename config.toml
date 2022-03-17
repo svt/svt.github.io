@@ -26,5 +26,5 @@ relativeURLs = true
 
 [params]
   url = 'https://www.svt.se/open/'
-  images = ['/open/img/waterfall.webp']
+  images = ['/img/waterfall.webp']
 
