@@ -2,7 +2,8 @@
 title: "Open Source"
 description: "Landing page for Open Source at SVT"
 images:
-  - https://via.placeholder.com/1200x630
+  - /open/img/waterfall.webp
+#  - https://via.placeholder.com/1200x630
 color: "#197869"
 heroImage: "/open/img/opensource-frame.svg"
 heroSocial: "enabled"

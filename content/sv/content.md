@@ -2,7 +2,7 @@
 title: "Öppet innehåll"
 description: "SVT:s sida för öppet innehåll"
 images:
-  - /img/waterfall.webp
+  - /open/img/waterfall.webp
   # - https://via.placeholder.com/1200x630
 color: "#410f5a"
 menu:
