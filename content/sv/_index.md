@@ -1,7 +1,7 @@
 ---
 title: "Öppet och fritt material"
-draft: false
 description: "Startsida för SVT:s öppna och fria material"
+draft: false
 heroBack: "/open/img/forsta_tvn_pa_gotland.jpg"
 # menu:
 #   main:

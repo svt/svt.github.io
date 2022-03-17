@@ -13,8 +13,8 @@
 
 
   <link rel="canonical" href="{{ absURL "/open" }}{{ .RelPermalink }}" >
-  {{ template "_internal/opengraph.html" . }}
-  <meta property="og:site_name" content="{{ .Site.Params.organisation }}" />
+  {{ partial "opengraph_open.html" . }}
+
 
 
   {{ template "_internal/twitter_cards.html" . }}

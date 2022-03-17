@@ -1,7 +1,7 @@
 ---
 title: "Open resources"
+description: "The SVT Open Resources landing page"
 draft: false
-description: "The SVT Open Source/Content landing page"
 heroBack: "/open/img/forsta_tvn_pa_gotland.jpg"
 # menu:
 #   main:the

@@ -1,6 +1,6 @@
 ---
 title: "Open Content"
-description: "A data set of video material intended for R&D"
+description: "Landing page for Open Content at SVT"
 images:
   - /open/img/waterfall.webp
   # - https://via.placeholder.com/1200x630

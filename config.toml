@@ -25,6 +25,5 @@ relativeURLs = true
     url = "https://omoss.svt.se/about-svt.html"
 
 [params]
-  organisation = 'SVT'
-  description = "My site description"
+  url = 'https://www.svt.se/open/'
 

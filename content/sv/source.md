@@ -1,6 +1,6 @@
 ---
 title: "Öppen källkod"
-description: "SVT's öppen källkodsida"
+description: "SVT:s sida för öppen källkod"
 images:
   - https://via.placeholder.com/1200x630
 color: "#197869"
