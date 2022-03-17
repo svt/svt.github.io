@@ -521,7 +521,7 @@ a:focus {
 }
 
 .image-gallery img {
-  max-width: 40%;
+  /* max-width: 40%; */
 }
 
 .info-box {
