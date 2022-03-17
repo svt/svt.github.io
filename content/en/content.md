@@ -1,6 +1,6 @@
 ---
 title: "Open Content"
-description: "Landing page for Open Content at SVT"
+description: "Data sets of video material released by SVT intended for R&D"
 images:
   - /open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_waterfall_720_imagep3.jpg
 color: "#410f5a"

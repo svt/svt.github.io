@@ -1,6 +1,6 @@
 ---
 title: "Open Source"
-description: "Landing page for Open Source at SVT"
+description: "Sveriges Television are dependent on many Open Source products. We also contribute to the Open Source community."
 images:
   - /open/img/opensource-hero.jpg
 color: "#197869"

@@ -1,6 +1,6 @@
 ---
 title: "Öppen källkod"
-description: "SVT:s sida för öppen källkod"
+description: "SVT skapar en stor del av sina lösningar med hjälp av öppen källkod. SVT strävar därför efter att, när det är möjligt, att bidra till öppen källkod-gemenskapen."
 images:
   - /open/img/opensource-hero.jpg
 color: "#197869"

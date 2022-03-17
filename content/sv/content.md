@@ -1,6 +1,6 @@
 ---
 title: "Öppet innehåll"
-description: "SVT:s sida för öppet innehåll"
+description: "Videomaterial tillhandahållet av SVT avsett för forskning och utveckling"
 images:
   - /open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_waterfall_720_imagep3.jpg
 color: "#410f5a"

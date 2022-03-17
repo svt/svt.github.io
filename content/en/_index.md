@@ -1,8 +1,8 @@
 ---
-title: "Open resources"
-description: "The SVT Open Resources landing page. Here you can find more information about SVT:s Open Resources."
+title: "Open Resources"
+description: "Here you can find information about SVT:s Open Resources."
 images:
- - /open/img/forsta_tvn_pa_gotland.jpg
+  - /open/img/forsta_tvn_pa_gotland.jpg
 draft: false
 heroBack: "/open/img/forsta_tvn_pa_gotland.jpg"
 # menu:
@@ -29,5 +29,5 @@ Sveriges Television har svenska folket som publik. Men både tv-produktion och d
 
 ### Why in English?
 
-SVT is a short for  "Sweden’s Television", and SVT is working for the Swedish public. However, TV production and development of digital services is made possible through partnerships all over the world. Therefore, it’s important that this information can be understood by as many as possible.
+SVT is a short for "Sweden’s Television", and SVT is working for the Swedish public. However, TV production and development of digital services is made possible through partnerships all over the world. Therefore, it’s important that this information can be understood by as many as possible.
 {{< / info-box >}}
