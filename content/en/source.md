@@ -20,7 +20,7 @@ Sveriges Television, The Swedish national public TV broadcaster, are dependent o
 
 ## Contributing to SVT's Open Source Projects
 
-{{< figure src="/open/img/undraw_version_control_9bpv.svg" alt="" class="float-right mw50" >}}
+{{< figure src="/open/img/undraw_version_control_9bpv.svg" alt="person with a computer" class="float-right mw50" >}}
 
 Contributing to an SVT-project is easy and follows the regular GitHub flow. Fork the repository and follow the code guidelines and best practices for that project. Make your changes and send a pull request on GitHub!
 

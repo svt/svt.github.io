@@ -16,12 +16,12 @@ menu:
 En svit av videomaterial avsett för forskning och utveckling.
 
 {{< gallery >}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smoke_sauna_360_imagep3.jpg" alt="" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_waterfall_360_imagep3.jpg" alt="" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smithy_360_imagep3.jpg" alt="" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_forest_lake_360_imagep3.jpg" alt="" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_midnight_sun_360_imagep3.jpg" alt="" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_water_flyover_360_imagep3.jpg" alt="" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smoke_sauna_360_imagep3.jpg" alt="sauna" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_waterfall_360_imagep3.jpg" alt="vattenfall" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smithy_360_imagep3.jpg" alt="smedja" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_forest_lake_360_imagep3.jpg" alt="vatten" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_midnight_sun_360_imagep3.jpg" alt="midnattsol" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_water_flyover_360_imagep3.jpg" alt="vatten" width="320">}}
 {{< /gallery >}}
 
 - [Dokumentation (1.1) (PDF - Engelska)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-1-reduced.pdf)
@@ -46,11 +46,11 @@ SVT Open Content Video Test Suite 2022 - Natural Complexity är licensierat unde
 En äldre svit av videomaterial.
 
 {{< gallery >}}
-{{< image src="/open/img/2006/SVT_MultiFormat_crowd_run_360_rec709.jpg" alt="" width="320">}}
-{{< image src="/open/img/2006/SVT_MultiFormat_in_to_tree_360_rec709.jpg" alt="" width="320">}}
-{{< image src="/open/img/2006/SVT_MultiFormat_ducks_take_off_360_rec709.jpg" alt="" width="320">}}
-{{< image src="/open/img/2006/SVT_MultiFormat_old_town_cross_360_rec709.jpg" alt="" width="320">}}
-{{< image src="/open/img/2006/SVT_MultiFormat_park_joy_360_rec709.jpg" alt="" width="320">}}
+{{< image src="/open/img/2006/SVT_MultiFormat_crowd_run_360_rec709.jpg" alt="joggare" width="320">}}
+{{< image src="/open/img/2006/SVT_MultiFormat_in_to_tree_360_rec709.jpg" alt="skog" width="320">}}
+{{< image src="/open/img/2006/SVT_MultiFormat_ducks_take_off_360_rec709.jpg" alt="ankor flyger" width="320">}}
+{{< image src="/open/img/2006/SVT_MultiFormat_old_town_cross_360_rec709.jpg" alt="gamla stan" width="320">}}
+{{< image src="/open/img/2006/SVT_MultiFormat_park_joy_360_rec709.jpg" alt="park" width="320">}}
 {{< /gallery >}}
 
 - [Dokumentation (Engelska) (PDF)](https://media.xiph.org/video/derf/vqeg.its.bldrdoc.gov/HDTV/SVT_MultiFormat/SVT_MultiFormat_v10.pdf)

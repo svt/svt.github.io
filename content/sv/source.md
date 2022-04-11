@@ -24,7 +24,7 @@ Detta genom att bidra med felrättningar eller genom att ibland släppa projekt 
 
 ## Att använda
 
-{{< figure src="/open/img/undraw_version_control_9bpv.svg" alt="" class="float-right mw50" >}}
+{{< figure src="/open/img/undraw_version_control_9bpv.svg" alt="person med dator" class="float-right mw50" >}}
 
 För att se en aktuell lista över tillgängliga projekt, undersök SVT:ss GitHub-sida. Varje projekt (bör) innehålla mer information om vad som gäller för det specifikt - användning, licenser och hur man utvecklar för det.
 
