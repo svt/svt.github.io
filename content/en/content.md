@@ -16,12 +16,12 @@ menu:
 A data set of video material intended for R&D.
 
 {{< gallery >}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smoke_sauna_360_imagep3.jpg" alt="a smokey sauna" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_waterfall_360_imagep3.jpg" alt="a waterfall" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smithy_360_imagep3.jpg" alt="a smithy" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_forest_lake_360_imagep3.jpg" alt="a forest lake" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_midnight_sun_360_imagep3.jpg" alt="the midnight sun" width="320">}}
-{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_water_flyover_360_imagep3.jpg" alt="forest lake" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smoke_sauna_360_imagep3.jpg" alt="A sauna full of smoke from an open fire" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_waterfall_360_imagep3.jpg" alt="A small waterfall" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_smithy_360_imagep3.jpg" alt="A smithy seen from a distance with a surrounding forest" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_forest_lake_360_imagep3.jpg" alt="A view over a lake with forest in the background and a cloudy sky" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_midnight_sun_360_imagep3.jpg" alt="A view over a lake with with a hill in the background and a cloudy sky shoot under the midnight sun" width="320">}}
+{{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_water_flyover_360_imagep3.jpg" alt="Sea water seen from above" width="320">}}
 {{< /gallery >}}
 
 - [Documentation (1.1) (PDF)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-1-reduced.pdf)
