@@ -24,7 +24,7 @@ En svit av videomaterial avsett för forskning och utveckling.
 {{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_water_flyover_360_imagep3.jpg" alt="vatten" width="320">}}
 {{< /gallery >}}
 
-- [Dokumentation (1.2) (PDF - Engelska)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-2-reduced.pdf)
+- [Dokumentation (1.3) (PDF - Engelska)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-3-reduced.pdf)
 - Videoinnehållet finns för tillfället att hämta från FTP: ftp://svtopencontent.svt.se
 
 Alla sekvenser i denna svit togs fram i syfte att hjälpa SVT:s interna OTT-team att utvärdera och bedöma videokvalitet från videokodare och kodekar.

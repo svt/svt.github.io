@@ -24,7 +24,7 @@ A data set of video material intended for R&D.
 {{< image src="/open/img/2022/SVT_Open_Content_Video_Test_Suite_2022_water_flyover_360_imagep3.jpg" alt="Sea water seen from above" width="320">}}
 {{< /gallery >}}
 
-- [Documentation (1.2) (PDF)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-2-reduced.pdf)
+- [Documentation (1.3) (PDF)](/docs/SVT_Open_Content_Video_Test_Suite_2022_Natural_Complexity_v1-3-reduced.pdf)
 - The content is currently available at: ftp://svtopencontent.svt.se
 
 All of the sequences from this suite were produced and post processed with the intention to help SVT’s internal OTT Video R&D team evaluate and assess video quality produced by encoders and codecs.
